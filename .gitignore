@@ -1,0 +1,13 @@
+*.swp
+*.raw
+build/
+*.rsf
+*.sfl
+*.laz
+*.srsf
+*.swo
+build-linux/
+cmake-build
+compile_commands.json
+.clangd
+
